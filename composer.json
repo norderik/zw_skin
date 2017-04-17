@@ -1,0 +1,16 @@
+{
+	"name": "zellwerk/zw-skin",
+	"type": "typo3-cms-extension",
+	"description": "Modification of the TYPO3 Core skin V 7.6",
+	"keywords": [
+		"backend",
+		"skin"
+	],
+	"license": ["GPL-2.0+"], 
+	"require": {
+		"typo3/cms-core": "7.6"
+	},
+	"replace": {
+		"zw_skin": "*"
+	}
+}
